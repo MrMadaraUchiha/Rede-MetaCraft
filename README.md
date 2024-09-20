@@ -13,7 +13,7 @@ https://github.com/MrMadaraUchiha<br>
 
 <h2>Plugins e Bibliotecas</h2>
 
-<b>Twitter Bootstrap(and it's components</b>
+<b>Twitter Bootstrap(e seus componentes</b>
 http://www.getbootstrap.com<br>
 
 <b>Efeito no Scroll: </b>
