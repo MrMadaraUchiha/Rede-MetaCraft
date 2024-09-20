@@ -5,9 +5,9 @@
 Tem um bug ou problema com este modelo? Abra um novo problema aqui no GitHub.
 
 
-<h2>Criador</h2>
+<h2>Criador:</h2>
 
-MetaCraft foi criada e é mantida atualizada por MrMadaraUchiha.
+Website da MetaCraft foi criada e é mantida atualizada por MrMadaraUchiha.
 
 https://github.com/MrMadaraUchiha<br>
 
