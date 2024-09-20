@@ -11,15 +11,15 @@ MetaCraft foi criada e é mantida atualizada por MrMadaraUchiha.
 
 https://github.com/MrMadaraUchiha<br>
 
-<h2>Plugins and Librarys</h2>
+<h2>Plugins e Bibliotecas</h2>
 
 <b>Twitter Bootstrap(and it's components</b>
 http://www.getbootstrap.com<br>
 
-<b>Affect on Scroll</b>
+<b>Efeito no Scroll: </b>
 https://github.com/michalsnik/aos<br>
 
-<b>Font Awesome</b>
+<b>Fonte Incrível: </b>
 http://fontawesome.io<br>
 
 <h3 style="color: red;"></h3>
